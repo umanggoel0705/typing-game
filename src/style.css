@@ -1,0 +1,19 @@
+body{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+#inp{
+    border: 1.5px solid aqua;
+    border-radius: 5px;
+    border-color: aqua;
+    height: 25px;
+    width: 200px;
+    font-size: 17px;
+}
+
+button{
+    font-size: medium;
+    padding: 5px 10px;
+    margin-top: 15px;
+}
